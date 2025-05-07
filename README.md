@@ -43,5 +43,5 @@ Meu nome é Alyson, tenho 18 anos e nasci em Guarulhos, São Paulo. Terminei o e
 </picture>
 
 <p align="center">
-<img width="130" src="https://media1.tenor.com/images/a0006796fe1fd02e9480a0d42ff37447/tenor.gif?itemid=11743614">
+<img width="130" src="https://th.bing.com/th/id/OIP.iL-wJ1h8XqBpukoFwCU9VQHaFj?rs=1&pid=ImgDetMain">
 </p> 
